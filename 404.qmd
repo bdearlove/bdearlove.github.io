@@ -1,0 +1,7 @@
+---
+title: "404"
+---
+
+# Oops!
+
+That URL is  misplaced is pointing to something that doesn't exist. Head back [home](/) to try finding it again, or search for it in the [blog](blog.qmd).

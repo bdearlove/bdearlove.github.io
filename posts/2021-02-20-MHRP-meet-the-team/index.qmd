@@ -1,0 +1,9 @@
+---
+title: "MHRP Employee Spotlight"
+author: "Bethany Dearlove"
+date: "2021-02-20"
+description: " "
+categories: [MHRP, about me]
+---
+
+I was interviewed as part of MHRP's Employee Spotlight, where I spoke about my research background, science communication, and how my creative pursuits feedback into my science. You can read it [here](https://www.hivresearch.org/meet-the-team/bethany-dearlove).

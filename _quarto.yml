@@ -1,19 +1,44 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "website"
+  site-url: https://bdearlove.github.io
+  favicon: logo.png
+  description: "Researcher in virus evolution and surveillance"
+  twitter-card:
+    creator: "@bethanydearlove"
+    site: "@bethanydearlove"
+    card-style: summary_large_image
   navbar:
-    left:
+    title: false
+    logo: logo.png
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - text: About
+        href: about.qmd
+      - text: Blog
+        href: blog.qmd
+      - icon: github
+        href: https://github.com/bdearlove
+  cookie-consent: false
+  page-footer:  
+    left:
+      &#169; 2024 Bethany Dearlove &#8729; Made with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/bdearlove/bdearlove.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org)
+    right:
+      - icon: rss
+        href: blog/index.xml
+    
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
+    theme:
+      dark: 
+        - darkly
+        - theme-dark.scss
+      light: 
+        - flatly
+        - theme-light.scss
+    mainfont: Lato
+    page-layout: full
 

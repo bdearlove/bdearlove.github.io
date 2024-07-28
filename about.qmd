@@ -1,9 +1,72 @@
 ---
-title: "About"
+title: "Bethany Dearlove, DPhil"
+subtitle: "computational biologist &#8729; data wrangler &#8729; disease detective"
+image: Bethany.png
+image-alt: "Smiling woman with teal and purple hair"
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - icon: github
+      href: https://github.com/bdearlove
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0003-3653-4592
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=YwTHmHYAAAAJ&hl=en&oi=ao
+    - icon: twitter
+      href: https://twitter.com/bethanydearlove
+format: 
+  html: 
+    page-layout: full
 ---
 
-About this site
+::: {#hero-heading}
 
-```{r}
-1 + 1
-```
+<h2>Hello. Welcome.</h2>
+
+I'm a senior post-doctoral scientist based in the [Institute of Hygiene and Applied Immunology](https://pii.meduniwien.ac.at/en/our-departments/institute-for-hygiene-and-applied-immunology/) at the Medical University of Vienna, Austria. My research uses virus sequence data to characterise how viruses evolve and spread through populations. I have particular interest in engaging science communication for actionable public health response, data visualisation and reproducible research. 
+
+I currently teach graduate courses in Data Visualisation (with R) and Science Communication.
+
+Away from work you might find me gaming 	&#x1f3ae;, doodling &#x1f3a8;, exploring 	&#x1f6b2; or baking &#x1f9c1;. 
+
+:::
+
+::: {.grid}
+
+::: {.g-col-6 #about-me-1}
+
+## Career
+
+Oct 2022- &nbsp; | **Senior postdoc in pathogen surveillance**<br>
+Medical University of Vienna, Austria 
+
+2021-2022 | **Senior Bioinformatics Scientist**<br>
+US Military HIV Research Program, USA
+
+2017-2021 | **Bioinformatics Analyst**<br>
+US Military HIV Research Program, USA
+
+2013-2017 | **Postdoc in viral phylodynamics**<br>
+University of Cambridge, UK
+
+:::
+
+::: {.g-col-6 #about-me-2}
+
+## Education
+
+2010-2013 | **DPhil in Clinical Medicine**<br> 
+University of Oxford, UK
+
+2009-2010 | **MSc in Biometry**<br>
+University of Reading, UK
+
+2006-2009 | **BSc in Mathematics & Statistics**<br>
+University of Reading, UK
+
+:::
+
+:::

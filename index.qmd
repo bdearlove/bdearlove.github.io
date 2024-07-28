@@ -1,11 +1,35 @@
 ---
-title: "website"
+title: "Bethany Dearlove, DPhil"
+subtitle: "viral evolution &#8729; genomic epidemiology &#8729; phylodynamics"
+image: Bethany.png
+image-alt: "Smiling woman with teal and purple hair"
+
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - icon: github
+      href: https://github.com/bdearlove
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0003-3653-4592
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=YwTHmHYAAAAJ&hl=en&oi=ao
+    - icon: twitter
+      href: https://twitter.com/bethanydearlove
+page-layout: full
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
+[Learn more about me &rarr;](/about){.about-links .subtitle}
+
+:::

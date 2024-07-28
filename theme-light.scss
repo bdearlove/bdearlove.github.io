@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+//Fonts 
+$font-family-base: "Lato", sans-serif;
+$headings-font-family: "Merriweather", serif;
+
+$link-color: #4dacca;
+
+/*-- scss:rules --*/
+
+// Class for theme specific content (see https://debruine.github.io/quarto_demo/dark_mode.html)
+.light-mode { display: block; }
+.dark-mode { display: none; }
+
+// Update some heading colours
+h2 {
+  color: #832161;
+}
+
+div.quarto-post a h3 {
+  color: #832161;
+}
+
+#title-block-header.quarto-title-block.default .quarto-title .title {
+  color: #832161;
+}
+
+.navbar-brand img { 
+  max-height: 50px;
+  width: auto;
+}
+
+// Turn off boxes around about icons
+div.quarto-about-trestles .about-entity .about-link {
+  border: none;
+  font-size: 1em;
+}
+
+div.quarto-about-jolla .about-link {
+  border: none;
+  font-size: 1.5em;
+}
