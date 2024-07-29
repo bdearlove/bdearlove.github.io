@@ -27,9 +27,5 @@ execute:
 ---
 
 ::: {#hero-heading}
-
-
-
 [Learn more about me &rarr;](/about){.about-links .subtitle}
-
 :::

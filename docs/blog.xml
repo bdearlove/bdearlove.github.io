@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Bethany Dearlove</title>
+<link>https://bdearlove.github.io/blog.html</link>
+<atom:link href="https://bdearlove.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Researcher in virus evolution and surveillance</description>
+<generator>quarto-1.5.55</generator>
+<lastBuildDate>Fri, 19 Feb 2021 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>MHRP Employee Spotlight</title>
+  <dc:creator>Bethany Dearlove</dc:creator>
+  <link>https://bdearlove.github.io/posts/2021-02-20-MHRP-meet-the-team/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I was interviewed as part of MHRP’s Employee Spotlight, where I spoke about my research background, science communication, and how my creative pursuits feedback into my science. You can read it <a href="https://www.hivresearch.org/meet-the-team/bethany-dearlove">here</a>.</p>
+
+
+
+ ]]></description>
+  <category>MHRP</category>
+  <category>about me</category>
+  <guid>https://bdearlove.github.io/posts/2021-02-20-MHRP-meet-the-team/</guid>
+  <pubDate>Fri, 19 Feb 2021 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Paper: Biased phylodynamic inferences from clusters</title>
+  <dc:creator>Bethany Dearlove</dc:creator>
+  <link>https://bdearlove.github.io/posts/2017-07-03-phylodynamics-of-clusters/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>My <a href="https://academic.oup.com/ve/article/3/2/vex020/4061302">paper</a> with <a href="https://twitter.com/sdwfrost">Simon Frost</a> and <a href="https://github.com/xiangfstats">Fei Xiang</a> is out in <em>Virus Evolution</em> showing how using phylogenetic clusters for phylodynamic investigation is problematic. Importantly, false clusters can masquerade as growing epidemics despite being identified from a randomly mixing, constant-sized population. We also show how other implicit biases can have an impact on parameter estimation and model selection, in part due to left censoring in the first coalescence event.</p>
+<p>Our findings have important ramifications for targeting intervention strategies using clusters identified from large databases, adding to the findings of <a href="https://twitter.com/art_poon">Art Poon</a> recently published in Virus Evolution <a href="https://academic.oup.com/ve/article/2/2/vew031/2742100">here</a>. They demonstrate that going forwards, we should be cautious in our interpretations, to ensure that resources are targeted in the populations where they will have most impact.</p>
+
+
+
+ ]]></description>
+  <category>new paper</category>
+  <category>phylodynamics</category>
+  <category>clustering</category>
+  <guid>https://bdearlove.github.io/posts/2017-07-03-phylodynamics-of-clusters/</guid>
+  <pubDate>Sun, 02 Jul 2017 22:00:00 GMT</pubDate>
+  <media:content url="https://bdearlove.github.io/posts/2017-07-03-phylodynamics-of-clusters/clusters.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Vet School at the Cambridge Science Festival</title>
+  <dc:creator>Bethany Dearlove</dc:creator>
+  <link>https://bdearlove.github.io/posts/2016-03-19-Cambridge-science-festival/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This year <a href="https://twitter.com/AnaidDiazP">Anaid Diaz</a>, <a href="https://www.vet.cam.ac.uk/directory/jcb78@cam.ac.uk">Jackie Brearley</a> and I co-organised the <a href="https://www.vet.cam.ac.uk/">Department of Veterinary Medicine</a>’s contribution to the <a href="https://www.sciencefestival.cam.ac.uk/">Cambridge Science festival</a>. It was a huge team effort - thank you to everyone to everyone who got involved and made it such a success! The theme of the day was One Health, showing how, by studying animal and human health side-by-side, we can use the latest technology and methods to treat patients, quantify the risk of infection and predict epidemics. During the day, we created a disease outbreak map, marking where people had travelled from. Had some of the bacteria models being made been real, we could have spread a lot of disease around Cambridgeshire, but also as far as the Netherlands, Spain, Turkey and even Japan!</p>
+<p>The Senior Common Room was filled with hands on activities representing the diverse research in the department, including:</p>
+<section id="bats-and-bugs" class="level4">
+<h4 class="anchored" data-anchor-id="bats-and-bugs">Bats and Bugs</h4>
+<p>Bat colonies (well, soft toy ones) temporarily moved into the trees outside the Vet School. Some of the colonies housed radio-tagged bats, and visitors were invited to try and find them, to show how bat movements can be tracked to better understand disease transmission.</p>
+</section>
+<section id="build-your-own-bacteria" class="level4">
+<h4 class="anchored" data-anchor-id="build-your-own-bacteria">Build your own bacteria!</h4>
+<p>What might the perfect bacteria look like? In this activity, children got to design and build their own model bacteria, thinking about what genetic features (glowing in the dark? antibiotic resistance? being able to communicate?) would make a good microbe living in different types of environments.</p>
+</section>
+<section id="edible-dna-models-and-hidden-message-bracelets" class="level4">
+<h4 class="anchored" data-anchor-id="edible-dna-models-and-hidden-message-bracelets">Edible DNA models and hidden message bracelets</h4>
+<p>How better to learn about the structure of DNA than by using sweets?! A couple of strawberry lances, some gummy bears and cocktail sticks later, and visitors had their very own edible DNA helix to take home. Visitors then learnt about how DNA holds the recipes for making proteins by creating secret message beaded bracelets.</p>
+</section>
+<section id="eye-to-eye-with-a-dog" class="level4">
+<h4 class="anchored" data-anchor-id="eye-to-eye-with-a-dog">Eye to eye with a dog</h4>
+<p>What does a dog see? What does the inside of its eye look like? Participants got to examine a model eye, and then used a video opthalmoscope to look into the eyes of one of our resident greyhounds.</p>
+</section>
+<section id="lego-genetic-epidemiology" class="level4">
+<h4 class="anchored" data-anchor-id="lego-genetic-epidemiology">Lego genetic epidemiology</h4>
+<p>How can the recent revolution in genetics help us understand the spread of infectious diseases better? In this activity, visitors first assembled a viral Lego ‘genome’ and then used it forensically who track gave the virus to whom. A game of Plague Inc.&nbsp;was also on hand, with several members of the public defeating the game, wiping out all of humanity by successfully mutating their pathogen of choice.</p>
+</section>
+<section id="natural-selection-building-animals-by-random-chance" class="level4">
+<h4 class="anchored" data-anchor-id="natural-selection-building-animals-by-random-chance">Natural selection: building animals by random chance</h4>
+<p>How do different forms of live evolve? This activity explained how different types of animals have arisen by using dice to simulate natural variation in insect body parts. A number of colourful and exciting insect combinations were obtained!</p>
+</section>
+<section id="building-the-dog-skeleton" class="level4">
+<h4 class="anchored" data-anchor-id="building-the-dog-skeleton">Building the dog skeleton</h4>
+<p>At this activity, visitors were given the opportunity to learn how bone fractures can be surgically repaired. Most exciting were the 3D printed plastic bones, which can be used to design better tools to guide surgeons when operating.</p>
+</section>
+<section id="disease-spillover-and-zoonosis" class="level4">
+<h4 class="anchored" data-anchor-id="disease-spillover-and-zoonosis">Disease spillover and zoonosis</h4>
+<p>How rare is it for an infectious disease to spread from animals into humans? In this activity, balls representing various viruses were rolled at gates representing different levels of transmission. Getting to the first gate, human-wildlife interaction, with relatively easy for all the viruses, but, just like in real life, sustained human-to-human transmission resulting in an epidemic was much harder.</p>
+</section>
+<section id="what-microbes-do-for-us-the-science-of-composting-and-food-recycling" class="level4">
+<h4 class="anchored" data-anchor-id="what-microbes-do-for-us-the-science-of-composting-and-food-recycling">What microbes do for us: the science of composting and food recycling</h4>
+<p>Using a microscope, visitors discovered some of the diverse microorganisms living in compost and their importance to ‘macroscopic’ life (plants, animals and humans).</p>
+<p>Meanwhile, a series of talks was hosted in the nearby Lecture Theatre 2 with exciting and often interactive presentations given by Mark Holmes, Matthew Allen, Kate Hughes, Andrea Strakova and Andrew Conlan.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Cambridge Science Festival</category>
+  <category>outreach</category>
+  <guid>https://bdearlove.github.io/posts/2016-03-19-Cambridge-science-festival/</guid>
+  <pubDate>Fri, 18 Mar 2016 23:00:00 GMT</pubDate>
+  <media:content url="https://bdearlove.github.io/posts/2016-03-19-Cambridge-science-festival/sci-fest-header.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Paper: Rapid host switching in Campylobacter</title>
+  <dc:creator>Bethany Dearlove</dc:creator>
+  <link>https://bdearlove.github.io/posts/2015-09-03-host-switching-in-Campylobacter/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>My new paper with <a href="www.danielwilson.me.uk/">Daniel Wilson</a>, <a href="https://sheppardlab.com/">Sam Sheppard</a> and colleagues on rapid host switching in generalist <em>Campylobacter</em> strains has been published in <a href="https://www.nature.com/articles/ismej2015149">The ISME Journal</a> (open access).</p>
+<p><em>Campylobacter</em> is the most commonly identified cause of bacterial gastroenteritis worldwide - with more cases than <em>Salmonella</em>, <em>E. coli</em>, <em>Clostridium</em> and <em>Listeria</em> combined. Infection is generally associated with food poisoning, particularly the consumption of raw poultry products. However, the <em>Campylobacter</em> genus comprises several widely distributed species of zoonotic pathogens, carried, often asymptomatically, in the gut microbiota of a range of mammalian and avian species, including, notably, those found on farms. As a consequence, opportunities for contamination of products including meat, poultry and unpasteurised milk can take place at any time from farmyard to fork. Although some strains of Campylobacter are only found in a single species, others appear associated with numerous host species. Indeed, some of the most common lineages associated with human disease are found frequently in both chicken and cattle, making it hard to infer the true source of infection.</p>
+<p>Previous work has focused on MLST typing, using only 7 genes representing about 1% of the full genome. The idea behind this new paper was that the increased resolution afforded by whole genome sequencing could reveal previously undetected differences between the strains found on chicken, versus those, say, on pork or beef. However, somewhat surprisingly, this was not found to be the case. Instead, we show that common strains of <em>C. jejuni</em> and <em>C. coli</em> infectious to humans seem to be rapidly switching between different hosts species - much more quickly than mutations can accumulate to differentiate sub-populations between those hosts. This suggests these lineages are adapted to a generalist lifestyle, permitting rapid transmission between different hosts.</p>
+<p>This conclusion also highlights that whole genome sequencing by itself cannot substitute for intensive sampling of suspected transmission reservoirs when searching for the source of human infection.</p>
+
+
+
+ ]]></description>
+  <category>new paper</category>
+  <category>Campylobacter</category>
+  <category>phylogeography</category>
+  <guid>https://bdearlove.github.io/posts/2015-09-03-host-switching-in-Campylobacter/</guid>
+  <pubDate>Wed, 02 Sep 2015 22:00:00 GMT</pubDate>
+  <media:content url="https://bdearlove.github.io/posts/2015-09-03-host-switching-in-Campylobacter/campyplot.png" medium="image" type="image/png" height="76" width="144"/>
+</item>
+<item>
+  <title>STEM Fair, Duxford</title>
+  <dc:creator>Bethany Dearlove</dc:creator>
+  <link>https://bdearlove.github.io/posts/2015-06-30-STEM-fair/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Trialling one of my new outreach activities today - Build Your Own Bacteria - for <a href="https://twitter.com/STEMteameast">STEM Team East</a>‘s annual STEM Fair Young Investigators’ Day. First we’ll discuss what features (glowing in the dark? antibiotic resistance? being able to communicate?) would make a good microbe, and then students will get to create their own 3D bacteria models. Tomorrow I’ll be doing yeast cultures for the older students. It’s meant to be a hot one, so hopefully the jelly medium will still set!</p>
+<p>This also has to be the coolest place I’ve ever held a workshop - in the shadow of the historical planes in the AirSpace hanger of the <a href="http://www.iwm.org.uk/visits/iwm-duxford/">Imperial War Museum, Duxford</a>.</p>
+<p><img src="https://bdearlove.github.io/posts/2015-06-30-STEM-fair/stemfair2015.jpg" class="img-fluid" style="width:80.0%"></p>
+
+
+
+ ]]></description>
+  <category>outreach</category>
+  <category>STEM ambassador</category>
+  <guid>https://bdearlove.github.io/posts/2015-06-30-STEM-fair/</guid>
+  <pubDate>Mon, 29 Jun 2015 22:00:00 GMT</pubDate>
+  <media:content url="https://bdearlove.github.io/posts/2015-06-30-STEM-fair/stemfair2015.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>British Science Week 2015</title>
+  <dc:creator>Bethany Dearlove</dc:creator>
+  <link>https://bdearlove.github.io/posts/2015-03-17-British-Science-Week/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I spent this morning with Year 4 at St.&nbsp;Alban’s Catholic School, Cambridge as part of their activities for <a href="https://www.britishscienceweek.org/">British Science Week</a>. We spoke about what can make us ill, with my growing collection of Giant Microbes as popular as ever. They were a chatty and interactive bunch, and I was completely blown away when amongst the usual answers of ‘bugs’ and ‘germs’ I also got ‘tuberculosis’ and ‘AIDS’. We then plated out some yeast in Petri dishes for them to observe growing over the next week or so. This uses my own ‘kitchen safe’ recipe as a growth medium, which reassures parents some!</p>
+
+
+
+ ]]></description>
+  <category>British Science Week</category>
+  <category>outreach</category>
+  <category>STEM ambassador</category>
+  <guid>https://bdearlove.github.io/posts/2015-03-17-British-Science-Week/</guid>
+  <pubDate>Mon, 16 Mar 2015 23:00:00 GMT</pubDate>
+  <media:content url="https://bdearlove.github.io/posts/2015-03-17-British-Science-Week/bsw2015.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>ISSF Public Engagement Award</title>
+  <dc:creator>Bethany Dearlove</dc:creator>
+  <link>https://bdearlove.github.io/posts/2014-09-11-public-engagement-award/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I’m thrilled to announce that I’ve won an <a href="https://www.medschl.cam.ac.uk/issf-prize-winners/">ISSF Public Engagement Award</a> from the School of Clinical Medicine at the University of Cambridge. From the press release on the Department of Veterinary Medicine’s website:</p>
+<blockquote class="blockquote">
+<p>Post-doctoral researcher Bethany Dearlove has recently won an ISSF Public Engagement award of £500 to develop her <em>Learning is infectious: pass it on</em> kit of activities aimed at introducing primary age school children to how genetic sequencing can be used to understand the spread of infectious disease. This success follows on from her taking second place in the Infectious Diseases zone in the final of <em>I’m a Scientist, Get me out of here</em>, for which her <em>Learning is infectious</em> kit was originally conceived. The competition, which took place in June, is an online X factor style event that offers school students the opportunity to interact with scientists. During a series of fast-paced chat sessions students challenged Bethany and her fellow scientists to explain their research and beyond in both an engaging and accessible way, voting for their favourites by process of elimination – the winner taking £500 for a public engagement activity of their choice. Over the course of two weeks, Bethany interacted with students from eight schools, and in addition to the chats, answered over 100 long-form ‘ASK’ questions. “Although I was disappointed to fall at the last hurdle in <em>I’m a Scientist</em>, I was thrilled that the Wellcome Trust ISSF Public Engagement Competition Committee saw value in my project, and I’m looking forward to taking my research into local schools and beyond.”</p>
+</blockquote>
+
+
+
+ ]]></description>
+  <category>awards</category>
+  <category>outreach</category>
+  <category>University of Cambridge</category>
+  <guid>https://bdearlove.github.io/posts/2014-09-11-public-engagement-award/</guid>
+  <pubDate>Wed, 10 Sep 2014 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>I’m a Scientist Get Me Out of Here!</title>
+  <dc:creator>Bethany Dearlove</dc:creator>
+  <link>https://bdearlove.github.io/posts/2014-06-28-im-a-scientist/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Over the last two weeks, I’ve been taking part in <a href="https://imascientist.org.uk/"><em>I’m a Scientist, get me out of here!</em></a> as one of five scientists in the <a href="https://diseasej14.imascientist.org.uk/">Infectious Diseases zone</a>. <em>I’m a Scientist</em> gives school pupils the chance to talk to scientists online - and most importantly, I think, ask us anything they like! I got a whole range of questions about DNA, evolution and infectious diseases, but also on a lot of other things…from my favourite colour/band/animal, to <a href="https://diseasej14.imascientist.org.uk/2014/06/22/what-makes-us-human/">what makes us human</a>, <a href="https://diseasej14.imascientist.org.uk/2014/06/20/how-much-make-up-do-you-wear-on-a-daily-basis/">whether I wear make up</a> and <a href="https://diseasej14.imascientist.org.uk/2014/06/25/if-a-meteor-was-heading-to-earth-how-world-you-get-rid-of-it/">how I would fend off a meteor headed to earth</a>! I think some of the students were surprised to find out how normal we are, and that’s one of the reasons doing outreach is so important to me. I’ve lost count of the times of entered a classroom for murmurings to go round that I didn’t fit the stereotype they expected.</p>
+<p>The real highlight of the <em>I’m a Scientist</em> is the live chats. Pre-booked by schools in advance, the web-based chats are a free-for-all where students can bombard you with questions. The left-hand side of the screen scrolled relentlessly with new questions and discussions based off of answers already given. A classroom of ~30 students made for a very intensive half hour at the keyboard - I’m certain my typing skills improved immensely, although I quickly learnt that a freshly made cup of tea was only destined to get cold!</p>
+<p>As if answering all those question wasn’t enough pressure, throughout the event, the students vote for their favourite scientist. Starting the second week, the scientist with the least votes at the end of the day gets evicted. It was a nerve-wracking wait for the votes to be counted for sure! I’m proud that I managed to survive to the final vote, but was eventually pipped to the post by Peter Elliot who took home the £500 prize for a public engagement project of his choice. A massive thank you to my fellow scientists, organisers and modding team - it was so well organised, and I had an absolute blast!</p>
+<p>You can see my profile and explore some more of the questions I answered <a href="https://archive.imascientist.org.uk/diseasej14-zone/scientists.html">here</a>. Final statistics from the Infectious Diseases zone are given <a href="https://about.imascientist.org.uk/files/2014/07/Infectious-report.pdf">here</a>.</p>
+
+
+
+ ]]></description>
+  <category>outreach</category>
+  <guid>https://bdearlove.github.io/posts/2014-06-28-im-a-scientist/</guid>
+  <pubDate>Fri, 27 Jun 2014 22:00:00 GMT</pubDate>
+  <media:content url="https://bdearlove.github.io/posts/2014-06-28-im-a-scientist/ias2014.png" medium="image" type="image/png" height="75" width="144"/>
+</item>
+</channel>
+</rss>

@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  site-url: https://bdearlove.github.io
+  title: "Bethany Dearlove"
+  site-url: "https://bdearlove.github.io"
   favicon: logo.png
   description: "Researcher in virus evolution and surveillance"
   twitter-card:
@@ -28,7 +29,7 @@ website:
       &#169; 2024 Bethany Dearlove &#8729; Made with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/bdearlove/bdearlove.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org)
     right:
       - icon: rss
-        href: blog/index.xml
+        href: blog.xml
     
 format:
   html:

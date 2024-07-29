@@ -1,14 +1,14 @@
 ---
-title: Blog
+title: "Blog"
 listing:
   contents: posts
+  feed: true
   sort: "date desc"
   type: default
   categories: unnumbered
   sort-ui: false
   filter-ui: false
   fields: [date, title, reading-time, categories, image]
-  feed: true
 page-layout: full
 title-block-banner: false
 ---
