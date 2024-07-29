@@ -1,5 +1,9 @@
 ---
 title: "404"
+
+format: 
+  html: 
+    page-layout: full
 ---
 
 # Oops!
